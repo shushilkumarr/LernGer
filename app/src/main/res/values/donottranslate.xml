@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Miwok translation for color red -->
+    <string name="miwok_color_red">Rot</string>
+
+    <!-- Miwok translation for color dusty yellow -->
+    <string name="miwok_color_dusty_yellow">staubiges Gelb</string>
+
+    <!-- Miwok translation for color mustard yellow -->
+    <string name="miwok_color_mustard_yellow">senf Gelb</string>
+
+    <!-- Miwok translation for color green -->
+    <string name="miwok_color_green">Grün</string>
+
+    <!-- Miwok translation for color brown -->
+    <string name="miwok_color_brown">Braun</string>
+
+    <!-- Miwok translation for color black -->
+    <string name="miwok_color_black">schwarz</string>
+
+    <!-- Miwok translation for color gray -->
+    <string name="miwok_color_gray">grau</string>
+
+    <!-- Miwok translation for color white -->
+    <string name="miwok_color_white">Weiß</string>
+
+    <!-- Miwok translation for father -->
+    <string name="miwok_family_father">Vater</string>
+
+    <!-- Miwok translation for mother -->
+    <string name="miwok_family_mother">Mutter</string>
+
+    <!-- Miwok translation for son -->
+    <string name="miwok_family_son">Sohn</string>
+
+    <!-- Miwok translation for daughter -->
+    <string name="miwok_family_daughter">Tochter</string>
+
+    <!-- Miwok translation for older brother -->
+    <string name="miwok_family_older_brother">älterer Bruder</string>
+
+    <!-- Miwok translation for younger brother -->
+    <string name="miwok_family_younger_brother">jüngerer Bruder</string>
+
+    <!-- Miwok translation for older sister -->
+    <string name="miwok_family_older_sister">ältere Schwester</string>
+
+    <!-- Miwok translation for younger sister -->
+    <string name="miwok_family_younger_sister">jüngere Schwester</string>
+
+    <!-- Miwok translation for grandmother -->
+    <string name="miwok_family_grandmother">Großmutter</string>
+
+    <!-- Miwok translation for grandfather -->
+    <string name="miwok_family_grandfather">Großvater</string>
+
+    <!-- Miwok translation for number one -->
+    <string name="miwok_number_one">eins</string>
+
+    <!-- Miwok translation for number two -->
+    <string name="miwok_number_two">zwei</string>
+
+    <!-- Miwok translation for number three -->
+    <string name="miwok_number_three">drei</string>
+
+    <!-- Miwok translation for number four -->
+    <string name="miwok_number_four">vier</string>
+
+    <!-- Miwok translation for number five -->
+    <string name="miwok_number_five">fünf</string>
+
+    <!-- Miwok translation for number six -->
+    <string name="miwok_number_six">sechs</string>
+
+    <!-- Miwok translation for number seven -->
+    <string name="miwok_number_seven">sieben</string>
+
+    <!-- Miwok translation for number eight -->
+    <string name="miwok_number_eight">acht</string>
+
+    <!-- Miwok translation for number nine -->
+    <string name="miwok_number_nine">neun</string>
+
+    <!-- Miwok translation for number ten -->
+    <string name="miwok_number_ten">zehn</string>
+
+    <!-- Miwok translation for phrase "Where are you going?" -->
+    <string name="miwok_phrase_where_are_you_going">Wohin gehst du?</string>
+
+    <!-- Miwok translation for phrase "What is your name?" -->
+    <string name="miwok_phrase_what_is_your_name">wie ist deine Name?</string>
+
+    <!-- Miwok translation for phrase "My name is..." -->
+    <string name="miwok_phrase_my_name_is">Ich heiße ....</string>
+
+    <!-- Miwok translation for phrase "How are you feeling?" -->
+    <string name="miwok_phrase_how_are_you_feeling">Wie geht es dir?</string>
+
+    <!-- Miwok translation for phrase "I'm feeling good." -->
+    <string name="miwok_phrase_im_feeling_good">Mir geht\'s gut</string>
+
+    <!-- Miwok translation for phrase "Are you coming?" -->
+    <string name="miwok_phrase_are_you_coming">kommst du?</string>
+
+    <!-- Miwok translation for phrase "Yes, I'm coming." -->
+    <string name="miwok_phrase_yes_im_coming">Ja, ich komme</string>
+
+    <!-- Miwok translation for phrase "I'm coming." -->
+    <string name="miwok_phrase_im_coming">Ich komme</string>
+
+    <!-- Miwok translation for phrase "Let's go." -->
+    <string name="miwok_phrase_lets_go">lass uns gehen</string>
+
+    <!-- Miwok translation for phrase "Come here." -->
+    <string name="miwok_phrase_come_here">Komm her</string>
+</resources>
